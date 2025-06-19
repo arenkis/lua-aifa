@@ -1,4 +1,3 @@
-````markdown
 # Voronoi Catchment Map for Central-Mexico Airports
 
 This script builds an **interactive Leaflet map** that shows:
